@@ -1,0 +1,16 @@
+Editor de codigo que vamos a utilizar: VisualStudioCode
+
+¿Que es un Comando?
+	
+	Orden o instruccion capas de ser interpretada y ejecutada por la computadora
+
+comandos basicos:
+
+	ls: muestra los doscumentos que se encuentran en la direccion donde estas parado
+	dir: lo mismo que ls en windows
+	cd ..: permite retroceder una carpeta
+	clear: limpia la consola
+	mv: mueve un archivo o le cambia el nombre
+	rm: elimina un archivo
+	mkdir: crea carpeta
+	touch: crea un archivo

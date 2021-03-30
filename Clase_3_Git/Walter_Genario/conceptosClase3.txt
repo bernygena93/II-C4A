@@ -1,0 +1,13 @@
+repositorio local:
+	Repositorio local: es el que tiene todos los archivos (que hayas guardado en él) en la computadora.
+
+
+comandos de git:	
+	git init // crea el repositorio
+        git config user.name "nombre de usuario" // agrega nuestra identidad
+        git config user.email "nombreUsuario@email.com"  // agrega nuestro email
+        git remote add origin https://github.com/DH/RepoRemoto // apunta al repositorio remoto
+
+Commits: son los paquetes que nos van a permitir ir haciendo un seguimiento de los cambios que vamos realizando, 
+dado que cada uno de ellos tiene una timestamp, o fecha de creación, y un autor. Los commits van a ser nuestro historial de cambios 
+que se fueron haciendo en el proyecto.
